@@ -1,5 +1,5 @@
 //Script for purchasing 1 item (saucelabs backpack) on www.saucedemo.com;
-//Below are steps to be taken to log in, place item in cart and reach the order confirmation page.
+//Below are steps to be taken to log in, place item in cart and reach the order confirmation page. 
 
 import { Given, When, Then } from '@wdio/cucumber-framework';
 import LoginPage from '../support/pages/LoginPage.js';

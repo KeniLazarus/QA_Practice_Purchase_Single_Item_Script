@@ -1,4 +1,4 @@
-//Page with shopping cart, shows all items added to cart;
+//Page with shopping cart, shows all items added to cart; 
 //Script confirms the existence of the page, then continues on to checkout.
 
 class ShoppingCart {

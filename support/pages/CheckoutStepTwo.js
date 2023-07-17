@@ -1,4 +1,4 @@
-//Page for checkout, this is step two of the checkout process;
+//Page for checkout, this is step two of the checkout process; 
 //Script confirms the existence of the page, then proceeds to the third step of the checkout.
 
 class CheckoutStepTwo {

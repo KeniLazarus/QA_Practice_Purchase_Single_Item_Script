@@ -1,4 +1,4 @@
-//Page with login information;
+//Page with login information; 
 //Script inputs chosen username, password and clicks the login button.
 
 class LoginPage {

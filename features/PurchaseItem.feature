@@ -1,4 +1,4 @@
-Feature: Purchasing items on Saucedemo
+Feature: Purchasing items on Saucedemo 
 
   Scenario: As a user, I can puchase an item
 
